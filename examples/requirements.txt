@@ -1,0 +1,6 @@
+**Historia de usuario**
+Como usuario deseo ingresar en la web.
+
+**Reglas de negocio**
+- Usuario debe existir.
+- Si hay algún campo erróneo, mostrar error.
